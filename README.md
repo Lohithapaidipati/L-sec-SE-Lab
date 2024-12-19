@@ -1,2 +1,2 @@
 # L-sec-SE-Lab
-This is a demo repository created for understanding Github modifications done here.
+This is a modified branch repository.
